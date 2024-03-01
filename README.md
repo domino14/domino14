@@ -30,3 +30,5 @@ I have been working on a few Scrabble-related projects in my spare time. I am a 
 If you would like to help out with any of my open-source projects please let me know!
 
 ![domino14's Stats](https://github-readme-stats.vercel.app/api?username=domino14&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![domino14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=domino14&theme=vue-dark&hide_border=true)
