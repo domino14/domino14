@@ -12,9 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### What I do
+
 Hey there! I'm César. I am a former electrical engineer turned software developer. I am also an entrepreneur and have co-founded a few companies. You can find my blog here: https://cesardelsolar.com
 
 I am currently CTO of CodeComet, a startup in the dev tools / test observability space. Check us out at https://codecomet.io. I previously was a late cofounder at a YC startup named Leftronic; we were acquired in 2014.
+
+### Scrabble and Word Games
 
 I have been working on a few Scrabble-related projects in my spare time. I am a top 20 tournament player in North America, which is where the interest comes from. My projects are:
 
@@ -23,3 +28,5 @@ I have been working on a few Scrabble-related projects in my spare time. I am a 
 - https://aerolith.org - a GPLv3 licensed word study site. Been working on this one since 2007 in various forms
 
 If you would like to help out with any of my open-source projects please let me know!
+
+![domino14's Stats](https://github-readme-stats.vercel.app/api?username=domino14&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
