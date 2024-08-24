@@ -21,7 +21,7 @@ I am currently CTO of CodeComet, a startup in the dev-tools-plus-AI space. Check
 
 ### Scrabble and Word Games
 
-I have been working on a few Scrabble-related projects in my spare time. I am a top 20 tournament player in North America, which is where the interest comes from. My projects are:
+I have been working on a few Scrabble-related projects in my spare time. I am a top 10 tournament player in North America, which is where the interest comes from. My projects are:
 
 - https://woogles.io - I co-founded a 501c3 non-profit named Woogles, which focuses on word gaming and education. The codebase is AGPLv3 and can be found here: https://github.com/woogles-io/liwords.
 - https://domino14.github.io/macondo - the best Scrabble AI in the world (need proof, though). GPLv3 licensed.
