@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### What I do
 
-Hey there! I'm César. I am a former electrical engineer turned software developer. I am also an entrepreneur and have co-founded a few companies. You can find my blog here: https://cesardelsolar.com
+Hey there! I'm César. I am a former electrical engineer turned software developer. I am also an entrepreneur and have co-founded a few companies. You can find my blog here: https://cesardelsolar.com.
 
-I am currently CTO of CodeComet, a startup in the dev-tools-plus-AI space. Check us out at https://codecomet.io. I previously was a late cofounder at a YC startup named Leftronic; we were acquired in 2014.
+I am currently CTO of Mimic, a startup that works on AI Agents for medical/dental clinics. Check us out at https://www.mimicmed.com. I previously was a late cofounder at a YC startup named Leftronic; we were acquired in 2014.
 
 ### Scrabble and Word Games
 
